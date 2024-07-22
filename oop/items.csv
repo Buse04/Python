@@ -1,0 +1,6 @@
+name       ,price ,quantity
+"PHONE"    ,  100 ,       1
+"LAPTOP"   , 1000 ,       4
+"CABLE"    ,   10 ,      60
+"MOUSE"    ,   20 ,      80
+"KEYBOARD" ,   40 ,      90
